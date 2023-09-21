@@ -52,7 +52,7 @@ namespace Calculs
                     }
 
                 }
-               
+                blblbllblbl;
                 // traitement des choix
                 if (choix != 0)
                 {
